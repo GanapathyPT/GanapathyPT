@@ -1,6 +1,6 @@
-# Hello guys,
+## Hello guys,
 
-### Ganapathy P T
+### I am Ganapathy P T
 
 a full stack web developer all the way from **India**
 
