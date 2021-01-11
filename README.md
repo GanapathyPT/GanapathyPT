@@ -1,5 +1,4 @@
-## Hi, 👋
-## I'm Ganapathy
+## Hi 👋, I'm Ganapathy
 
 I am a Web Developer, always curious to get into new technologies. Checkout my [website](https://ganapathypt.github.io/) for more info!
 
