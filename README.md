@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<h2>
-    I'm Ganapathy!<br />
-    <small>Web Developer</small>
-</h2>
+## I'm Ganapathy!
+
+<p>Web Developer</p>
 
 <br />
 
